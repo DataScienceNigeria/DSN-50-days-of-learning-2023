@@ -9,6 +9,14 @@
   </a>
 </p>
 
+Our 50 days courses
+- Sign up here: [https://airtable.com/shrCb8y6eTbPKwSTL](https://)
+- Join the [#courses-50days-of-learning](https://) channel
+- [Tweet about the courses!](https://twitter.com/intent/tweet?text=Join%20the%2050%20Days%20of%20Learning%20organized%20by%20%40dsn_ai_network%20and%20level%20up%20your%20skills%0A%0ACourses%3A%0AMicrosoft%20Power%20BI%0AMicrosoft%20PowerApps%0AML%20with%20Azure%0AML%20with%20Python%0A%0ADon%27t%20miss%20out%20on%20this%20amazing%20opportunity%21%20Find%20more%20info%20here%3A%20bit.ly%2FDSN_50days%20%2350daysLearning)
+- Start watching course videos! Course playlist
+- Technical FAQ
+- For announcements, join our Telegram channel
+
 
 
 
