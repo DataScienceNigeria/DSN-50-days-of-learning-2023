@@ -17,7 +17,13 @@ Our 50 days courses
 - Technical FAQ
 - For announcements, join our [Telegram channel](https://t.me/DSN_Courses)
 
+## Taking the course
 
+### 2023 Cohort
+- Start: 19 June 2023 (Monday) at 12:00 GMT+1
+- Registration link: [https://airtable.com/shrCb8y6eTbPKwSTL](https://)
+- Subscribe to our public Google Calendar (it works from Desktop only)
+- Cohort folder
 
 
 
