@@ -1,8 +1,34 @@
 # Power BI
 
-Welcome to the Power BI guide, where you can learn the essentials of Microsoft Power BI. This guide is designed to help you understand and utilize the various capabilities of Power BI, from getting started to building visuals and distributing insights. Below is a breakdown of the topics covered and the corresponding links to each day's content.
+Welcome to the Power BI learning repository! This repository contains a series of modules that will help you get started with Power BI and explore its various capabilities. Whether you're new to Power BI or looking to enhance your skills, this learning path will guide you through the fundamentals and advanced topics.
 
-## Topics and Links
+## Description
+
+In this learning path, you will:
+
+- Learn about the capabilities of Microsoft Power BI
+- Explore what Power BI can do for you
+- Get started building with Power BI
+- Learn how to get and transform data in Power BI
+- Model and design data in Power BI
+- Build visuals and reports in Power BI
+- Distribute Power BI insights
+- Gain an understanding of Power BI administration
+
+This repository is structured into daily modules, providing you with a step-by-step learning experience. Each module focuses on a specific topic and includes links to relevant resources, tutorials, and examples to help you dive deeper into Power BI.
+
+## Prerequisites
+
+Before starting this learning path, it is recommended to have a basic understanding of data analysis concepts and familiarity with Microsoft Excel.
+
+To complete the exercises and follow along with the tutorials, you will need:
+
+- Microsoft Power BI Desktop (latest version)
+- A Power BI account (you can sign up for a free account at [Power BI website](https://powerbi.microsoft.com/))
+
+Please ensure that you have the necessary software and accounts set up before proceeding with the modules.
+
+## Modules
 
 | Day | Module                                          |
 |-----|-------------------------------------------------|
