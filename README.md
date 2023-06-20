@@ -1,10 +1,10 @@
 # DSN-50-days-of-learning-2023
 
-[![Image](https://github.com/DataScienceNigeria/DSN-50-days-of-learning-2023/blob/main/images/Screenshot%20(313)3.png?raw=true)](https://bit.ly/DSN-50-OL)
+[![Image](https://github.com/DataScienceNigeria/DSN-50-days-of-learning-2023/blob/main/images/Screenshot%20(313)3.png?raw=true)]()
 
 
 <p align="center">
-  <a href="https://">
+  <a href="https://bit.ly/DSN-50-OL">
     <img src="https://github.com/DataScienceNigeria/DSN-50-days-of-learning-2023/blob/main/images/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png?raw=true" height="50" style="max-width: 100%;">
   </a>
 </p>
