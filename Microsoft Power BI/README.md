@@ -63,23 +63,22 @@ Please ensure that you have the necessary software and accounts set up before pr
 | 29  | [Work with Power BI visuals](https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
 | 30  | [Work with Power BI visuals](https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
 | 31  | [Work with Power BI visuals](https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
-| 32  | [Work with Power BI visuals](https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
+| 32  | [Create a data-driven story with Power BI reports](https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
 | 33  | [Create a data-driven story with Power BI reports](https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
-| 34  | [Create a data-driven story with Power BI reports](https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
-| 35  | [Create a data-driven story with Power BI reports](https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
-| 36  | [Publish and share in Power BI](https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
-| 37  | [Publish and share in Power BI](https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
-| 38  | [Publish and share in Power BI](https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
-| 39  | [Explore data in Power BI](https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
-| 40  | [Explore data in Power BI](https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
-| 41  | [Understand the Power BI administrator role](https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.introduction-power-bi-administration) |
-| 42  | [Establish a Power BI environment](https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.introduction-power-bi-administration) |
-| 43  | [Establish a data access infrastructure in Power BI](https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.introduction-power-bi-administration) |
-| 44  | Project                                         |
+| 34  | [Publish and share in Power BI](https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
+| 35  | [Publish and share in Power BI](https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
+| 36  | [Explore data in Power BI](https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
+| 37  | [Explore data in Power BI](https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
+| 38  | [Understand the Power BI administrator role](https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.introduction-power-bi-administration) |
+| 39  | [Establish a Power BI environment](https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.introduction-power-bi-administration) |
+| 40  | [Establish a data access infrastructure in Power BI](https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.introduction-power-bi-administration) |
+| 41  | Project                                         |
+| 42  | Project                                                  |
+| 43  | Project                                                  |
+| 44  | Project                                                  |
 | 45  | Project                                                  |
 | 46  | Project                                                  |
 | 47  | Project                                                  |
 | 48  | Project                                                  |
 | 49  | Project                                                  |
 | 50  | Project                                                  |
-
