@@ -22,8 +22,13 @@ Our 50 days courses
 ### 2023 Cohort
 - Start: 19 June 2023 (Monday) at 12:00 GMT+1
 - Registration link: [https://airtable.com/shrCb8y6eTbPKwSTL](https://)
-- Subscribe to our public Google Calendar (it works from Desktop only)
-- Cohort folder
+
+# Self-paced Mode
+
+- All the materials of the course are freely available, allowing you to take the courses at your own pace.
+- Follow the suggested syllabus day by day.
+- If you encounter any problems, check the [FAQ]() section for solutions.
+- If you can't find a solution to your problem in the FAQ, ask for help in Slack.
 
 
 
