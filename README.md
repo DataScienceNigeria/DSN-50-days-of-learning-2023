@@ -59,19 +59,16 @@ To make the most out of this learning program, participants should have the foll
 
 **Microsoft Power BI:**
 - Basic understanding of data analysis concepts and techniques.
-- Familiarity with Microsoft Excel and its data manipulation features.
 
 **Microsoft Power Apps:**
 - Basic knowledge of app development concepts.
-- Familiarity with Microsoft Office suite and its applications.
 
 **Machine Learning with Microsoft Azure:**
 - Prior exposure to machine learning concepts and techniques.
 - Familiarity with Microsoft Azure cloud platform.
 
 **Machine Learning with Python:**
-- Basic Understanding of Python programming language.
-- Prior knowledge and understanding of fundamental machine learning concepts.
+- Basic understanding of Python programming language.
 
 Please note that these prerequisites are specific to each course and are intended to ensure a foundational understanding of the topics covered. It is recommended to have the mentioned prerequisites in order to fully comprehend and engage with the course materials effectively.
 
