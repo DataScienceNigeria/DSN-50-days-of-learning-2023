@@ -23,7 +23,7 @@ Our 50 days courses
 - Start: 19 June 2023 (Monday) at 12:00 GMT+1
 - Registration link: [https://airtable.com/shrCb8y6eTbPKwSTL](https://)
 
-# Self-paced Mode
+### Self-paced Mode
 
 - All the materials of the course are freely available, allowing you to take the courses at your own pace.
 - Follow the suggested syllabus day by day.
