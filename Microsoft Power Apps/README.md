@@ -65,21 +65,20 @@ Please ensure that you have the necessary prerequisites set up before proceeding
 | 31  | [Create tables in Dataverse](https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps-common-data-service/)                                  |
 | 32  | [Create tables in Dataverse](https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps-common-data-service/)                                  |
 | 33  | [Create tables in Dataverse](https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps-common-data-service/)                                  |
-| 34  | [Create tables in Dataverse](https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps-common-data-service/)                                  |
+| 34  | [Get started with model-driven apps in Power Apps](https://learn.microsoft.com/en-us/training/modules/get-started-with-model-driven-apps-in-powerapps/)             |
 | 35  | [Get started with model-driven apps in Power Apps](https://learn.microsoft.com/en-us/training/modules/get-started-with-model-driven-apps-in-powerapps/)             |
 | 36  | [Get started with model-driven apps in Power Apps](https://learn.microsoft.com/en-us/training/modules/get-started-with-model-driven-apps-in-powerapps/)             |
 | 37  | [Get started with model-driven apps in Power Apps](https://learn.microsoft.com/en-us/training/modules/get-started-with-model-driven-apps-in-powerapps/)             |
-| 38  | [Get started with model-driven apps in Power Apps](https://learn.microsoft.com/en-us/training/modules/get-started-with-model-driven-apps-in-powerapps/)             |
+| 38  | [Configure forms, charts, and dashboards in model-driven apps](https://learn.microsoft.com/en-us/training/modules/configure-model-driven-apps-customer-engagement-apps/) |
 | 39  | [Configure forms, charts, and dashboards in model-driven apps](https://learn.microsoft.com/en-us/training/modules/configure-model-driven-apps-customer-engagement-apps/) |
 | 40  | [Configure forms, charts, and dashboards in model-driven apps](https://learn.microsoft.com/en-us/training/modules/configure-model-driven-apps-customer-engagement-apps/) |
-| 41  | [Configure forms, charts, and dashboards in model-driven apps](https://learn.microsoft.com/en-us/training/modules/configure-model-driven-apps-customer-engagement-apps/) |
+| 41  |  Project                                               |
 | 42  |  Project                                               |
 | 43  |  Project                                               |
-| 44  |  Project                                              |
+| 44  |  Project                                               |
 | 45  |  Project                                               |
 | 46  |  Project                                               |
-| 47  |  Project                                              |
-| 48  |  Project                                              |
+| 47  |  Project                                               |
+| 48  |  Project                                               |
 | 49  |  Project                                               |
-| 50  |  Project                                             |
-
+| 50  |  Project                                               |
