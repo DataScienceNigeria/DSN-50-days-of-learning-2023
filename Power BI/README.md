@@ -1,6 +1,6 @@
-# Power BI
+# Microsoft Power BI
 
-Welcome to the Power BI learning repository! This repository contains a series of modules that will help you get started with Power BI and explore its various capabilities. Whether you're new to Power BI or looking to enhance your skills, this learning path will guide you through the fundamentals and advanced topics.
+Welcome to the Microsoft Power BI learning repository! This repository contains a series of modules that will help you get started with Power BI and explore its various capabilities. Whether you're new to Power BI or looking to enhance your skills, this learning path will guide you through the fundamentals and advanced topics.
 
 ## Description
 
