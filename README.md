@@ -42,28 +42,39 @@ This 50-day learning program consists of four different courses:
 
 Each course focuses on specific technologies and provides comprehensive knowledge and practical skills in their respective domains.
 
-## Objective
+### Objective
 
 The aim of this learning program is to equip participants with practical knowledge and skills in the areas of Machine Learning with Microsoft Azure, Microsoft Power Apps, Microsoft Power BI, and Machine Learning with Python. By the end of the program, participants will have a deep understanding of the core concepts, tools, and techniques related to each course. They will be able to utilize these technologies to solve complex problems, build applications, create visualizations, and deploy machine learning models in a production environment.
 
-## Target Audience
+### Target Audience
 
 The program is designed for:
 - Tech enthusiasts who have a keen interest in acquiring skills related to machine learning with Microsoft Azure, Microsoft Power Apps, Microsoft Power BI, and machine learning with Python.
 - Professionals seeking to enrich their knowledge in machine learning, app development, and data visualization.
 - Individuals looking to transition their careers into these technology domains.
 
-## Pre-requisites
+### Pre-requisites
 
 To make the most out of this learning program, participants should have the following pre-requisites:
 
-- Proficiency in Python programming language.
-- Familiarity with Docker, a platform for containerization.
-- Comfortable working with the command line interface (CLI).
-- Prior exposure to machine learning concepts and techniques, either through work experience or other courses such as ML Zoomcamp.
-- At least 1+ year of prior programming experience.
+**Microsoft Power BI:**
+- Basic understanding of data analysis concepts and techniques.
+- Familiarity with Microsoft Excel and its data manipulation features.
 
-These prerequisites will ensure a smoother learning experience and enable participants to grasp the course materials effectively.
+**Microsoft Power Apps:**
+- Basic knowledge of app development concepts.
+- Familiarity with Microsoft Office suite and its applications.
+
+**Machine Learning with Microsoft Azure:**
+- Prior exposure to machine learning concepts and techniques.
+- Familiarity with Microsoft Azure cloud platform.
+
+**Machine Learning with Python:**
+- Basic Understanding of Python programming language.
+- Prior knowledge and understanding of fundamental machine learning concepts.
+
+Please note that these prerequisites are specific to each course and are intended to ensure a foundational understanding of the topics covered. It is recommended to have the mentioned prerequisites in order to fully comprehend and engage with the course materials effectively.
+
 
 
 
