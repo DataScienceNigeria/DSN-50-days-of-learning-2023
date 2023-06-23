@@ -20,7 +20,7 @@ Our 50 days courses
 
 ### 2023 Cohort
 - Start: 19 June 2023 (Monday) at 12:00 GMT+1
-- Registration link: [https://bit.ly/DSN-Microsoft-50days-Learning](https://bit.ly/DSN-Microsoft-50days-Learning)
+- Registration link: (https://bit.ly/DSN-Microsoft-50days-Learning)
 
 ### Self-paced Mode
 
