@@ -57,15 +57,27 @@ Please ensure that you have the necessary prerequisites set up before proceeding
 | 24    | [Introduction to Machine Learning](https://youtu.be/ujTCoH21GlA)                   |
 | 25    | [Linear Regression 1](https://youtu.be/45ryDIPHdGg)                               |
 | 26    | [Linear Regression 2](https://youtu.be/1BYu65vLKdA)                               |
-| 27   | Saving models and Plotting Data                    |
-| 28  | Irregular Data                                    |
-| 29 | K-Nearest Neighbor                                |
-|30| Implementation of K-Nearest Neighbor               |
-| 31 | Sklearn dataset                                   |
-| 32  | Support Vector Machine                            |
-| 33   | Implementation of Support Vector Machine           |
-| 34  | Clustering                                        |
-| 35| Implementation of Clustering                       |
-| 36 | Decision Tree                                     |
+| 27    | [Saving models and Plotting Data](https://youtu.be/3AQ_74xrch8)                    |
+| 28    | [Irregular Data](https://youtu.be/ddqQUz9mZaM)                                    |
+| 29    | [K-Nearest Neighbor](https://youtu.be/vwLT6bZrHEE)                                |
+| 30    | [Implementation of K-Nearest Neighbor](https://youtu.be/TQKI0KE-JYY)               |
+| 31    | [Sklearn dataset](https://youtu.be/dNBvQ38MlT8)                                   |
+| 32    | [Support Vector Machine](https://youtu.be/JHxyrMgOUWI)                            |
+| 33    | [Implementation of Support Vector Machine](https://youtu.be/l2I8NycJMCY)           |
+| 34    | [Clustering](https://youtu.be/g1Zbuk1gAfk)                                        |
+| 35    | [Implementation of Clustering](https://youtu.be/zixd-si9Q-o)                       |
+| 36    | [Decision Tree](https://youtu.be/RmajweUFKvM)                                     |
 | 37 |                                                   |
-
+| 38 |                                                   |
+| 39 |                                                   |
+| 40 |                                                   |
+| 41 |                                                   |
+| 42 |                                                   |
+| 43 |                                                   |
+| 44 |                                                   |
+| 45 |                                                   |
+| 46 |                                                   |
+| 47 |                                                   |
+| 48 |                                                   |
+| 49 |                                                   |
+| 50 |                                                   |
