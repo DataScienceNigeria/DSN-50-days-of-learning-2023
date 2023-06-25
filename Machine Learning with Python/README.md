@@ -54,18 +54,18 @@ Please ensure that you have the necessary prerequisites set up before proceeding
 | 21    | [Scikit Learn](https://youtu.be/0B5eIE_1vpU)                                      |
 | 22    | [Scikit Learn](https://youtu.be/0B5eIE_1vpU)                                      |
 | 23    | [Scikit Learn](https://youtu.be/0B5eIE_1vpU)                                      |
-| 14    | [Introduction to Machine Learning](https://youtu.be/ujTCoH21GlA)                   |
-| 15    | [Linear Regression 1](https://youtu.be/45ryDIPHdGg)                               |
-| 16    | [Linear Regression 2](https://youtu.be/1BYu65vLKdA)                               |
-| Friday, September 17, 2021   | Saving models and Plotting Data                    |
-| Monday, September 20, 2021   | Irregular Data                                    |
-| Tuesday, September 21, 2021  | K-Nearest Neighbor                                |
-| Wednesday, September 22, 2021| Implementation of K-Nearest Neighbor               |
-| Thursday, September 23, 2021 | Sklearn dataset                                   |
-| Friday, September 24, 2021   | Support Vector Machine                            |
-| Monday, September 27, 2021   | Implementation of Support Vector Machine           |
-| Tuesday, September 28, 2021  | Clustering                                        |
-| Wednesday, September 29, 2021| Implementation of Clustering                       |
-| Thursday, September 30, 2021 | Decision Tree                                     |
-| Friday, October 1, 2021      |                                                   |
+| 24    | [Introduction to Machine Learning](https://youtu.be/ujTCoH21GlA)                   |
+| 25    | [Linear Regression 1](https://youtu.be/45ryDIPHdGg)                               |
+| 26    | [Linear Regression 2](https://youtu.be/1BYu65vLKdA)                               |
+| 27   | Saving models and Plotting Data                    |
+| 28  | Irregular Data                                    |
+| 29 | K-Nearest Neighbor                                |
+|30| Implementation of K-Nearest Neighbor               |
+| 31 | Sklearn dataset                                   |
+| 32  | Support Vector Machine                            |
+| 33   | Implementation of Support Vector Machine           |
+| 34  | Clustering                                        |
+| 35| Implementation of Clustering                       |
+| 36 | Decision Tree                                     |
+| 37 |                                                   |
 
