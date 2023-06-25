@@ -14,7 +14,6 @@ In this learning path, you will:
 - Perform data clustering and use K-nearest neighbors algorithm
 - Work with real-world datasets and perform data preprocessing
 - Utilize Python libraries for data visualization, including Seaborn
-- Explore GIS (Geographic Information System) applications in machine learning
 
 ## Prerequisites
 
