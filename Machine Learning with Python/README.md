@@ -67,17 +67,17 @@ Please ensure that you have the necessary prerequisites set up before proceeding
 | 34    | [Clustering](https://youtu.be/g1Zbuk1gAfk)                                        |
 | 35    | [Implementation of Clustering](https://youtu.be/zixd-si9Q-o)                       |
 | 36    | [Decision Tree](https://youtu.be/RmajweUFKvM)                                     |
-| 37 |                                                   |
-| 38 |                                                   |
-| 39 |                                                   |
-| 40 |                                                   |
-| 41 |                                                   |
-| 42 |                                                   |
-| 43 |                                                   |
-| 44 |                                                   |
-| 45 |                                                   |
-| 46 |                                                   |
-| 47 |                                                   |
-| 48 |                                                   |
-| 49 |                                                   |
-| 50 |                                                   |
+| 37    |   Project                                               |
+| 38    |   Project                                                 |
+| 39    |   Project                                         |
+| 40    |   Project                                      |
+| 41    |   Project                                             |
+| 42    |   Project                                              |
+| 43    |   Project                                             |
+| 44    |   Project                                              |
+| 45    |   Project                                                 |
+| 46    |   Project                                                |
+| 47    |   Project                                               |
+| 48    |   Project                                                | 
+| 49    |   Project                                             |
+| 50    |   Project                                                |
