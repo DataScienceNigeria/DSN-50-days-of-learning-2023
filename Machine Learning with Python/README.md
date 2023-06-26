@@ -26,7 +26,7 @@ Before starting this learning path, it is recommended to have a basic understand
 
 Please ensure that you have the necessary prerequisites set up before proceeding with the modules.
 
-## Table
+## Module
 
 | Day   | Topic/Subject Matter                                                                |
 | ------| ----------------------------------------------------------------------------------- |
