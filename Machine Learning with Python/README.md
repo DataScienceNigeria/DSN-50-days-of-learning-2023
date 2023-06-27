@@ -25,7 +25,7 @@ Before starting this learning path, it is recommended to have a basic understand
 
 Please ensure that you have the necessary prerequisites set up before proceeding with the modules.
 
-### Additional Resource on Python:
+### Additional Resources on Python:
 [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/)
 
 ## Module
