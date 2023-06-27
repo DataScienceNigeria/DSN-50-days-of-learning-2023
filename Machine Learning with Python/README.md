@@ -22,9 +22,11 @@ Before starting this learning path, it is recommended to have a basic understand
 - Python installed on your machine
 - Jupyter Notebook for running Python code
 - Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn installed
-- Access to online resources and datasets for practice
 
 Please ensure that you have the necessary prerequisites set up before proceeding with the modules.
+
+### Additional Resource on Python:
+[Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/)
 
 ## Module
 
