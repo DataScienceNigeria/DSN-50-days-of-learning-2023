@@ -64,7 +64,7 @@ To make the most out of this learning program, participants should have the foll
 - Familiarity with Microsoft Azure cloud platform.
 
 **Machine Learning with Python:**
-- Basic understanding of Python programming language.
+- Basic understanding of Python programming language. You can click on the [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/) module to learn Python.
 
 Please note that these prerequisites are specific to each course and are intended to ensure a foundational understanding of the topics covered. It is recommended to have the mentioned prerequisites in order to fully comprehend and engage with the course materials effectively.
 
