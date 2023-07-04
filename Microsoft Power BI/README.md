@@ -82,3 +82,17 @@ Please ensure that you have the necessary software and accounts set up before pr
 | 48  | Project                                                  |
 | 49  | Project                                                  |
 | 50  | Project                                                  |
+
+
+## Additional Resources
+
+Here are some additional resources related to preparing for PL-300 exam:
+
+- [Preparing for PL-300 - Prepare the Data (1 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-prepare-the-data-1-of-4?source=recommendations)
+
+- [Preparing for PL-300 - Model the Data (2 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-model-the-data-2-of-4)
+
+- [Preparing for PL-300 - Visualize and Analyze the Data (3 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-visualize-and-analyze-the-data-3-of-4)
+
+- [Preparing for PL-300 - Deploy and Maintain Assets (4 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-deploy-and-maintain-assets-4-of-4)
+
