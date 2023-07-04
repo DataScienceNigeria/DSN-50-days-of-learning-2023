@@ -28,7 +28,7 @@ Please ensure that you have the necessary prerequisites set up before proceeding
 ### Additional Resources on Python:
 [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/)
 
-## Module
+## Modules
 
 | Day   | Topic/Subject Matter                                                                |
 | ------| ----------------------------------------------------------------------------------- |
