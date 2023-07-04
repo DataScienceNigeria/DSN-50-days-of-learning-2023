@@ -13,7 +13,7 @@ In this learning path, you will:
 - Run training scripts and track model training with MLflow
 - Run pipelines in Azure Machine Learning
 - Perform hyperparameter tuning
-- Deploy models to managed online and batch endpoints
+- Deploy models to manage online and batch endpoints
 - Get hands-on experience with the Azure Machine Learning SDK
 - Train machine learning models with Azure Machine Learning
 - Work with data and compute resources in Azure Machine Learning
